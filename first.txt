@@ -1,1 +1,2 @@
 This is the first git file created again (ammending some changes).
+This is the second line, making changes for 2nd commit.
