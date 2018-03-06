@@ -1,2 +1,3 @@
 Making a conflicts file to create conflicts and file is first created in master.
 okay, now adding a text which will be mainly responsible for conflict to occur between master and new_feature branch.
+so, finally resolving the conflicts.
