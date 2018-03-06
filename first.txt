@@ -1,2 +1,1 @@
 This is the first git file created again (ammending some changes).
-Making changes before merging to master.
